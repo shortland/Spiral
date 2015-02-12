@@ -1,7 +1,7 @@
 /*
 * Ilan Kleiman
 * February 10th 2015
-* Spiral - script.css
+* Spiral - script.js
 * http://ilankleiman.com
 */
 

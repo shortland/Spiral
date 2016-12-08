@@ -1,7 +1,7 @@
 # Spiral
 Some jQuery art,
 
-<b>DEMO: http://ilankleiman.com/demo/spiral/index.html</b>
+<b>DEMO: http://ilankleiman.com/projects/Spiral/index.html</b>
 
 Just a bit of art using jQuery!
 
